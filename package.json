@@ -1,0 +1,21 @@
+{
+  "name": "thescore_challenge",
+  "version": "1.0.0",
+  "description": "theScore QA Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Naveen Nagularapu",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.13.14",
+    "@babel/core": "^7.13.15",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/register": "^7.13.14",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "supertest": "^6.1.3"
+  }
+}
